@@ -1,7 +1,7 @@
 # CS569 Homework 03
 ## Angular Components Communication - Inputs/Outpus
 ## Write in a new markdown file `hw3-question1.md` the answer of the following questions:
-Read the documentaion and name all Angular component lifecycle hooks? and summurize when each one of them is triggered.
+Read the documentaion and name all Angular component lifecycle hooks? and summarize when each one of them is triggered.
   
 ## Coding Exercise
 1. Create a new Angular application from CLI.
