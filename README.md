@@ -1,6 +1,8 @@
 # CS569 Homework 03
+## Theory question
+* Summary the lifecycle hooks of a component in Angular: https://angular.io/guide/lifecycle-hooks
 ## Angular Change Detection
-Your will build a counter application with Angular framework, the application has the following components:  
+Your will build a Rock-Paper-Scissors game application with Angular framework, the application has the following components:  
 * AppComponent (root)
 * Counter (reusable)
     
