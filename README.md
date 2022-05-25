@@ -1,6 +1,6 @@
 # CS569 Homework 03
 ## Angular Change Detection
-Your will build a Rock-Paper-Scissors game application with Angular framework, the application has the following components:  
+Your will build a counter application with Angular framework, the application has the following components:  
 * AppComponent (root)
 * Counter (reusable)
     
